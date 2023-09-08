@@ -1,0 +1,31 @@
+/* custom brands */
+
+/* Barq */
+.button.button-barq {
+    color: #ffffff;
+    background-color: #ff6a00;
+  }
+  .button.button-barq:hover,
+  .button.button-barq:focus {
+    filter: brightness(90%);
+  }
+
+/* FetLife */
+.button.button-fetlife {
+    color: #ffffff;
+    background-color: #371717;
+  }
+  .button.button-fetlife:hover,
+  .button.button-fetlife:focus {
+    filter: brightness(90%);
+  }
+
+/* FurAffinity */
+.button.button-furaffinity {
+    color: #000000;
+    background-color: #adadff;
+  }
+  .button.button-furaffinity:hover,
+  .button.button-furaffinity:focus {
+    filter: brightness(90%);
+  }
